@@ -19,7 +19,9 @@
       "Bash(open \"http://localhost:3001/en\")",
       "Bash(curl:*)",
       "Bash(open:*)",
-      "Bash(jq:*)"
+      "Bash(jq:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)"
     ]
   }
 }
