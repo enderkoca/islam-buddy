@@ -1,0 +1,214 @@
+{
+  "metadata": {
+    "title": "Islam & Deen Buddy - Calendrier Ramadan 2026, Horaires Iftar et Prière",
+    "description": "Votre compagnon Ramadan 2026! Calendrier Ramadan, horaires iftar et suhoor, alarmes de prière, suivi de lecture du Coran. Plus scanner halal, Kaaba en direct, trouveur de Qibla et plus."
+  },
+  "socialProof": {
+    "userCount": "1M+",
+    "userLabel": "Musulmans dans le monde",
+    "ratingLabel": "App Store & Google Play",
+    "downloadCount": "1M+",
+    "downloadLabel": "Téléchargements",
+    "trustMessage": "Approuvé par plus d'un million de musulmans dans plus de 150 pays pour leur pratique islamique quotidienne"
+  },
+  "header": {
+    "appName": "Islam & Deen Buddy",
+    "appTagline": "Votre Compagnon Islamique",
+    "ramadan": "Ramadan 2026",
+    "features": "Fonctionnalités",
+    "howItWorks": "Comment ça marche",
+    "faq": "FAQ",
+    "download": "Télécharger",
+    "language": "Langue"
+  },
+  "hero": {
+    "headline": "Votre Compagnon Islamique Complet",
+    "subheadline": "Scanner halal, Kaaba en direct, radio Coran, trouveur de Qibla, assistant IA et plus de 10 fonctionnalités puissantes — tout ce dont vous avez besoin pour votre voyage spirituel dans une belle application.",
+    "downloadCta": "Télécharger Gratuit",
+    "learnMoreCta": "En savoir plus"
+  },
+  "features": {
+    "sectionTitle": "Plus de 10 Fonctionnalités pour Votre Ibadah Quotidienne",
+    "sectionSubtitle": "Du scanner halal aux conseils islamiques par IA — nous avons construit tout ce dont vous avez besoin pour renforcer votre foi.",
+    "featureCount": "Fonctionnalités Essentielles",
+    "halalScanner": {
+      "title": "Scanner Halal",
+      "description": "Scannez le code-barres de n'importe quel produit pour vérifier instantanément s'il est Halal ou Haram. Obtenez une analyse détaillée des ingrédients."
+    },
+    "kabaLive": {
+      "title": "Kaaba en Direct",
+      "description": "Regardez la Sainte Kaaba en direct 24h/24 depuis Masjid al-Haram à La Mecque. Sentez-vous connecté au sanctuaire sacré."
+    },
+    "quranRadio": {
+      "title": "Radio Coran 24/7",
+      "description": "Écoutez de belles récitations du Coran 24h/24. Plusieurs récitateurs et stations du monde musulman."
+    },
+    "quranReader": {
+      "title": "Lecture du Coran",
+      "description": "Lisez le Saint Coran avec une belle écriture Uthmani, des traductions en plus de 40 langues et récitation audio."
+    },
+    "dhikrCounter": {
+      "title": "Compteur de Dhikr",
+      "description": "Tasbih numérique avec retour haptique, listes de dhikr personnalisables et objectifs quotidiens pour suivre votre rappel d'Allah."
+    },
+    "dailyVerse": {
+      "title": "Verset et Hadith du Jour",
+      "description": "Commencez chaque jour avec inspiration. Recevez un beau verset coranique et hadith authentique avec explication chaque matin."
+    },
+    "prayerTimes": {
+      "title": "Horaires de Prière",
+      "description": "Horaires de prière précis basés sur votre emplacement avec méthodes de calcul personnalisables et sons d'Adhan."
+    },
+    "qiblaFinder": {
+      "title": "Trouveur de Qibla",
+      "description": "Trouvez la direction exacte de la Qibla partout dans le monde en utilisant la boussole de votre téléphone."
+    },
+    "aiCoach": {
+      "title": "Assistant IA Islamique",
+      "description": "Obtenez des réponses à vos questions islamiques de notre assistant IA formé sur des sources authentiques du Coran et Hadith."
+    },
+    "islamicStories": {
+      "title": "Histoires Islamiques",
+      "description": "Explorez les histoires des Prophètes, Compagnons et de l'histoire islamique avec de belles illustrations et narration audio."
+    },
+    "widgets": {
+      "title": "Widgets Écran d'Accueil",
+      "description": "Ajoutez de beaux widgets à votre écran d'accueil affichant les horaires de prière, direction Qibla, versets quotidiens et compteur de dhikr."
+    },
+    "notifications": {
+      "title": "Notifications Intelligentes",
+      "description": "Ne manquez jamais une prière avec des alertes Adhan personnalisables, rappels de lecture du Coran et notifications d'inspiration islamique quotidienne."
+    }
+  },
+  "howItWorks": {
+    "sectionTitle": "Commencez Votre Voyage en Minutes",
+    "sectionSubtitle": "Commencer avec Islam & Deen Buddy est simple. Téléchargez, personnalisez et commencez votre voyage spirituel aujourd'hui.",
+    "step1": {
+      "title": "Téléchargez l'App",
+      "description": "Obtenez Islam & Deen Buddy gratuitement sur l'App Store ou Google Play. Disponible sur tous les appareils iOS et Android."
+    },
+    "step2": {
+      "title": "Personnalisez les Paramètres",
+      "description": "Définissez votre emplacement pour les horaires de prière, choisissez votre récitateur préféré et personnalisez les notifications."
+    },
+    "step3": {
+      "title": "Commencez Votre Voyage",
+      "description": "Explorez toutes les fonctionnalités, suivez votre ibadah quotidienne et rapprochez-vous d'Allah avec votre nouveau compagnon."
+    }
+  },
+  "faq": {
+    "sectionTitle": "Questions Fréquentes",
+    "sectionSubtitle": "Trouvez des réponses aux questions courantes sur Islam & Deen Buddy et ses fonctionnalités.",
+    "q1": {
+      "question": "Comment fonctionne le Scanner Halal?",
+      "answer": "Scannez simplement le code-barres de n'importe quel produit avec la caméra de votre téléphone. Notre app analyse les ingrédients contre notre base de données complète. Vous obtiendrez un résultat instantané."
+    },
+    "q2": {
+      "question": "Les horaires de prière sont-ils précis pour ma localisation?",
+      "answer": "Oui! Islam & Deen Buddy utilise votre position GPS et prend en charge plusieurs méthodes de calcul (MWL, ISNA, Égypte, La Mecque, Karachi et plus) pour garantir des horaires de prière précis."
+    },
+    "q3": {
+      "question": "Puis-je utiliser l'app hors ligne?",
+      "answer": "De nombreuses fonctionnalités fonctionnent hors ligne, notamment le lecteur de Coran, la boussole Qibla, le compteur de dhikr et les horaires de prière. Le streaming Kaaba et la radio Coran nécessitent une connexion internet."
+    },
+    "q4": {
+      "question": "L'Assistant IA Islamique est-il fiable?",
+      "answer": "Notre assistant IA est formé sur des sources islamiques authentiques incluant le Coran et les collections de Hadiths Sahih. Cependant, pour les questions religieuses personnelles, nous recommandons toujours de consulter un savant qualifié."
+    },
+    "q5": {
+      "question": "Comment changer le récitateur du Coran?",
+      "answer": "Allez dans Paramètres > Coran > Récitateur et choisissez parmi plus de 30 Qaris de renommée mondiale. Chaque récitateur peut être téléchargé pour l'écoute hors ligne."
+    },
+    "q6": {
+      "question": "Islam & Deen Buddy est-il gratuit?",
+      "answer": "Oui! Islam & Deen Buddy est gratuit à télécharger et la plupart des fonctionnalités sont disponibles sans frais. Nous offrons un abonnement premium optionnel pour des fonctionnalités supplémentaires."
+    },
+    "q7": {
+      "question": "Comment configurer les notifications de prière?",
+      "answer": "Naviguez vers Paramètres > Notifications et activez les alertes pour chaque prière. Vous pouvez personnaliser le son de notification et définir les heures de rappel."
+    },
+    "q8": {
+      "question": "L'app prend-elle en charge plusieurs langues?",
+      "answer": "Oui! Islam & Deen Buddy prend en charge l'anglais, l'arabe, le turc, le français, l'espagnol, l'allemand et le néerlandais. Les traductions du Coran sont disponibles dans plus de 40 langues."
+    },
+    "q9": {
+      "question": "Comment suivre ma progression de lecture du Coran?",
+      "answer": "L'app marque automatiquement où vous vous êtes arrêté. Vous pouvez aussi définir des objectifs de lecture quotidiens et suivre votre progression de Khatm dans la section Progression."
+    },
+    "q10": {
+      "question": "Puis-je personnaliser le compteur de dhikr?",
+      "answer": "Absolument! Créez des listes de dhikr personnalisées, définissez des objectifs quotidiens, activez le retour haptique et suivez votre progression. L'app inclut aussi des collections prédéfinies pour les adhkar du matin et du soir."
+    }
+  },
+  "testimonials": {
+    "sectionTitle": "Aimé par les Musulmans du Monde Entier",
+    "sectionSubtitle": "Découvrez ce que notre communauté dit de son expérience avec Islam & Deen Buddy.",
+    "reviews": {
+      "r1": "Islam & Deen Buddy a transformé ma routine quotidienne. Les rappels de prière et les fonctionnalités du Coran m'aident à rester connecté à ma foi tout au long de la journée.",
+      "r2": "Le scanner halal change tout! Faire les courses n'a jamais été aussi facile. Je peux enfin être confiant sur ce que je donne à manger à ma famille.",
+      "r3": "Belle application avec tant de fonctionnalités. Le streaming Kaaba en direct m'apporte la paix chaque fois que je le regarde. Hautement recommandé!",
+      "r4": "En tant que converti, cette app a été inestimable pour apprendre. L'assistant IA répond à mes questions et les histoires islamiques sont merveilleuses.",
+      "r5": "Le trouveur de Qibla et les horaires de prière sont très précis. Je l'utilise quotidiennement et l'ai recommandé à tout le monde à ma mosquée.",
+      "r6": "Application islamique très complète. Le compteur de dhikr avec retour haptique rend le suivi de mes adhkar quotidiens tellement plus facile."
+    }
+  },
+  "footer": {
+    "appName": "Islam & Deen Buddy",
+    "appTagline": "Votre Compagnon Islamique",
+    "tagline": "Votre compagnon de confiance pour la pratique islamique quotidienne.",
+    "links": "Liens",
+    "legal": "Mentions Légales",
+    "features": "Fonctionnalités",
+    "howItWorks": "Comment ça marche",
+    "faq": "FAQ",
+    "privacy": "Politique de Confidentialité",
+    "terms": "Conditions d'Utilisation",
+    "contact": "Contact",
+    "copyright": "© {year} Islam & Deen Buddy. Tous droits réservés.",
+    "developedBy": "Développé par Oye Teknoloji Anonim Şirketi",
+    "disclaimer": "Islam & Deen Buddy fournit du contenu islamique à des fins éducatives. Pour des conseils religieux personnels, veuillez consulter un savant islamique qualifié."
+  },
+  "localeSwitcher": {
+    "label": "Langue",
+    "en": "English",
+    "ar": "العربية",
+    "tr": "Türkçe",
+    "fr": "Français",
+    "es": "Español",
+    "de": "Deutsch",
+    "nl": "Nederlands"
+  },
+  "ramadan": {
+    "badge": "Ramadan 2026",
+    "title": "Votre Compagnon Complet du Ramadan",
+    "subtitle": "Calendrier Ramadan, horaires iftar, alarmes suhoor, suivi de lecture du Coran et tout ce dont vous avez besoin pour un Ramadan béni — tout dans une seule app.",
+    "cta": "Télécharger pour le Ramadan",
+    "ctaSubtext": "Calendrier et horaires de prière gratuits pour votre ville",
+    "features": {
+      "imsakiye": {
+        "title": "Calendrier Ramadan",
+        "description": "Calendrier complet du Ramadan avec horaires précis d'imsak (suhoor) et iftar pour votre emplacement exact. Ne manquez plus jamais le suhoor ou l'iftar."
+      },
+      "iftar": {
+        "title": "Alertes Heure d'Iftar",
+        "description": "Recevez une notification quand c'est l'heure de rompre le jeûne. Le compte à rebours montre exactement combien de temps reste jusqu'à l'iftar avec une belle notification d'Adhan."
+      },
+      "sahur": {
+        "title": "Alarme Suhoor",
+        "description": "Réveillez-vous pour le suhoor avec des alarmes personnalisables. Définissez plusieurs rappels pour vous assurer de ne pas manquer le repas avant l'aube pendant le Ramadan."
+      },
+      "tarawih": {
+        "title": "Horaires Prière Tarawih",
+        "description": "Sachez exactement quand la prière Tarawih commence à votre mosquée locale. Suivez vos prières nocturnes tout au long du Ramadan."
+      },
+      "dua": {
+        "title": "Duas du Ramadan",
+        "description": "Collection de duas essentielles du Ramadan incluant dua d'iftar, dua de suhoor, prières de Laylatul Qadr et invocations quotidiennes du Ramadan."
+      },
+      "quran": {
+        "title": "Suivi Khatm du Coran",
+        "description": "Complétez le Coran pendant le Ramadan avec des objectifs de lecture quotidiens. Suivez votre progression et restez dans les temps pour le Khatm."
+      }
+    }
+  }
+}

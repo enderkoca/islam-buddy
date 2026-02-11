@@ -1,0 +1,58 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+@layer components {
+  .islamic-pattern {
+    position: relative;
+    overflow: hidden;
+  }
+
+  .islamic-pattern::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    opacity: 0.03;
+    background-image: repeating-conic-gradient(
+      from 0deg at 50% 50%,
+      transparent 0deg,
+      #065f46 30deg,
+      transparent 60deg
+    );
+    background-size: 60px 60px;
+    pointer-events: none;
+  }
+
+  .geometric-border {
+    border-image: repeating-linear-gradient(
+        45deg,
+        #065f46 0px,
+        #065f46 1px,
+        transparent 1px,
+        transparent 6px
+      )
+      8;
+  }
+
+  .star-pattern {
+    position: relative;
+    overflow: hidden;
+  }
+
+  .star-pattern::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    opacity: 0.04;
+    background-image: radial-gradient(circle at 50% 50%, #065f46 1px, transparent 1px),
+      radial-gradient(circle at 0% 0%, #065f46 1px, transparent 1px);
+    background-size: 40px 40px;
+    pointer-events: none;
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "metadata": {
+    "title": "Islam & Deen Buddy - Ramadan 2026 Imsakiye, Iftar & Gebetszeiten",
+    "description": "Dein Ramadan 2026 Begleiter! Imsakiye, Iftar-Zeiten, Suhoor-Alarm, Koran-Lesetracker. Plus Halal-Scanner, Live-Kaaba, Qibla-Finder, Gebetszeiten und mehr."
+  },
+  "socialProof": {
+    "userCount": "1M+",
+    "userLabel": "Muslime weltweit",
+    "ratingLabel": "App Store & Google Play",
+    "downloadCount": "1M+",
+    "downloadLabel": "Downloads",
+    "trustMessage": "Vertraut von über einer Million Muslimen in mehr als 150 Ländern für ihre tägliche islamische Praxis"
+  },
+  "header": {
+    "appName": "Islam & Deen Buddy",
+    "appTagline": "Dein Islamischer Begleiter",
+    "ramadan": "Ramadan 2026",
+    "features": "Funktionen",
+    "howItWorks": "So funktioniert's",
+    "faq": "FAQ",
+    "download": "Herunterladen",
+    "language": "Sprache"
+  },
+  "hero": {
+    "headline": "Dein Kompletter Islamischer Begleiter",
+    "subheadline": "Halal-Scanner, Live-Kaaba, Koran-Radio, Qibla-Finder, KI-Assistent und über 10 leistungsstarke Funktionen — alles was du für deine spirituelle Reise brauchst in einer schönen App.",
+    "downloadCta": "Kostenlos Herunterladen",
+    "learnMoreCta": "Mehr Erfahren"
+  },
+  "features": {
+    "sectionTitle": "Über 10 Leistungsstarke Funktionen für Deine Tägliche Ibadah",
+    "sectionSubtitle": "Vom Halal-Scanner bis zur KI-gestützten islamischen Beratung — wir haben alles gebaut, was du brauchst, um deinen Glauben zu stärken.",
+    "featureCount": "Wesentliche Funktionen",
+    "halalScanner": {
+      "title": "Halal-Scanner",
+      "description": "Scanne den Barcode eines beliebigen Produkts, um sofort zu prüfen, ob es Halal oder Haram ist. Erhalte detaillierte Zutatenanalyse."
+    },
+    "kabaLive": {
+      "title": "Live-Kaaba-Streaming",
+      "description": "Sieh die Heilige Kaaba live 24/7 aus der Masjid al-Haram in Mekka. Fühle dich mit dem heiligen Heiligtum verbunden."
+    },
+    "quranRadio": {
+      "title": "24/7 Koran-Radio",
+      "description": "Höre schöne Koran-Rezitationen rund um die Uhr. Mehrere Rezitatoren und Sender aus der muslimischen Welt."
+    },
+    "quranReader": {
+      "title": "Koran-Lesen",
+      "description": "Lies den Heiligen Koran mit schöner Uthmani-Schrift, Übersetzungen in über 40 Sprachen und Audio-Rezitation."
+    },
+    "dhikrCounter": {
+      "title": "Dhikr-Zähler",
+      "description": "Digitaler Tasbih mit haptischem Feedback, anpassbaren Dhikr-Listen und täglichen Zielen, um dein Gedenken an Allah zu verfolgen."
+    },
+    "dailyVerse": {
+      "title": "Täglicher Vers & Hadith",
+      "description": "Beginne jeden Tag mit Inspiration. Erhalte jeden Morgen einen schönen Koranvers und authentischen Hadith mit Erklärung."
+    },
+    "prayerTimes": {
+      "title": "Gebetszeiten",
+      "description": "Genaue Gebetszeiten basierend auf deinem Standort mit anpassbaren Berechnungsmethoden und Adhan-Tönen."
+    },
+    "qiblaFinder": {
+      "title": "Qibla-Finder",
+      "description": "Finde die genaue Qibla-Richtung überall auf der Welt mit dem Kompass deines Telefons."
+    },
+    "aiCoach": {
+      "title": "KI-Islamischer Assistent",
+      "description": "Erhalte Antworten auf deine islamischen Fragen von unserem KI-Assistenten, der auf authentischen Quellen aus Koran und Hadith trainiert wurde."
+    },
+    "islamicStories": {
+      "title": "Islamische Geschichten",
+      "description": "Entdecke Geschichten der Propheten, Gefährten und islamischen Geschichte mit schönen Illustrationen und Audio-Erzählung."
+    },
+    "widgets": {
+      "title": "Startbildschirm-Widgets",
+      "description": "Füge schöne Widgets zu deinem Startbildschirm hinzu, die Gebetszeiten, Qibla-Richtung, tägliche Verse und Dhikr-Zähler anzeigen."
+    },
+    "notifications": {
+      "title": "Intelligente Benachrichtigungen",
+      "description": "Verpasse nie ein Gebet mit anpassbaren Adhan-Alarmen, Koran-Lese-Erinnerungen und täglichen islamischen Inspirations-Benachrichtigungen."
+    }
+  },
+  "howItWorks": {
+    "sectionTitle": "Starte Deine Reise in Minuten",
+    "sectionSubtitle": "Der Einstieg mit Islam & Deen Buddy ist einfach. Herunterladen, personalisieren und heute deine spirituelle Reise beginnen.",
+    "step1": {
+      "title": "App Herunterladen",
+      "description": "Hole dir Islam & Deen Buddy kostenlos im App Store oder bei Google Play. Verfügbar auf allen iOS- und Android-Geräten."
+    },
+    "step2": {
+      "title": "Einstellungen Anpassen",
+      "description": "Stelle deinen Standort für Gebetszeiten ein, wähle deinen bevorzugten Rezitator und passe Benachrichtigungen an."
+    },
+    "step3": {
+      "title": "Beginne Deine Reise",
+      "description": "Entdecke alle Funktionen, verfolge deine tägliche Ibadah und komme Allah mit deinem neuen islamischen Begleiter näher."
+    }
+  },
+  "faq": {
+    "sectionTitle": "Häufig Gestellte Fragen",
+    "sectionSubtitle": "Finde Antworten auf häufige Fragen über Islam & Deen Buddy und seine Funktionen.",
+    "q1": {
+      "question": "Wie funktioniert der Halal-Scanner?",
+      "answer": "Scanne einfach den Barcode eines Produkts mit der Kamera deines Telefons. Unsere App analysiert die Zutaten gegen unsere umfassende Datenbank. Du erhältst ein sofortiges Ergebnis."
+    },
+    "q2": {
+      "question": "Sind die Gebetszeiten für meinen Standort genau?",
+      "answer": "Ja! Islam & Deen Buddy verwendet deinen GPS-Standort und unterstützt mehrere Berechnungsmethoden (MWL, ISNA, Ägypten, Mekka, Karachi und mehr) für genaue Gebetszeiten."
+    },
+    "q3": {
+      "question": "Kann ich die App offline nutzen?",
+      "answer": "Viele Funktionen funktionieren offline, einschließlich Koran-Leser, Qibla-Kompass, Dhikr-Zähler und Gebetszeiten. Live-Kaaba-Streaming und Koran-Radio erfordern eine Internetverbindung."
+    },
+    "q4": {
+      "question": "Ist der KI-islamische Assistent zuverlässig?",
+      "answer": "Unser KI-Assistent wurde auf authentischen islamischen Quellen trainiert, einschließlich Koran und Sahih-Hadith-Sammlungen. Für persönliche religiöse Angelegenheiten empfehlen wir jedoch immer, einen qualifizierten Gelehrten zu konsultieren."
+    },
+    "q5": {
+      "question": "Wie ändere ich den Koran-Rezitator?",
+      "answer": "Gehe zu Einstellungen > Koran > Rezitator und wähle aus über 30 weltbekannten Qaris. Jeder Rezitator kann für Offline-Hören heruntergeladen werden."
+    },
+    "q6": {
+      "question": "Ist Islam & Deen Buddy kostenlos?",
+      "answer": "Ja! Islam & Deen Buddy ist kostenlos herunterzuladen und die meisten Funktionen sind ohne Kosten verfügbar. Wir bieten ein optionales Premium-Abonnement für zusätzliche Funktionen."
+    },
+    "q7": {
+      "question": "Wie richte ich Gebetszeit-Benachrichtigungen ein?",
+      "answer": "Navigiere zu Einstellungen > Benachrichtigungen und aktiviere Alarme für jedes Gebet. Du kannst den Benachrichtigungston anpassen und Erinnerungszeiten einstellen."
+    },
+    "q8": {
+      "question": "Unterstützt die App mehrere Sprachen?",
+      "answer": "Ja! Islam & Deen Buddy unterstützt Englisch, Arabisch, Türkisch, Französisch, Spanisch, Deutsch und Niederländisch. Koran-Übersetzungen sind in über 40 Sprachen verfügbar."
+    },
+    "q9": {
+      "question": "Wie verfolge ich meinen Koran-Lesefortschritt?",
+      "answer": "Die App markiert automatisch, wo du aufgehört hast. Du kannst auch tägliche Leseziele setzen und deinen Khatm-Fortschritt im Fortschrittsbereich verfolgen."
+    },
+    "q10": {
+      "question": "Kann ich den Dhikr-Zähler anpassen?",
+      "answer": "Absolut! Erstelle benutzerdefinierte Dhikr-Listen, setze tägliche Ziele, aktiviere haptisches Feedback und verfolge deinen Fortschritt. Die App enthält auch voreingestellte Sammlungen für Morgen- und Abend-Adhkar."
+    }
+  },
+  "testimonials": {
+    "sectionTitle": "Geliebt von Muslimen Weltweit",
+    "sectionSubtitle": "Sieh, was unsere Gemeinschaft über ihre Erfahrung mit Islam & Deen Buddy sagt.",
+    "reviews": {
+      "r1": "Islam & Deen Buddy hat meine tägliche Routine transformiert. Die Gebetserinnerungen und Koran-Funktionen helfen mir, den ganzen Tag mit meinem Glauben verbunden zu bleiben.",
+      "r2": "Der Halal-Scanner ist ein Game-Changer! Einkaufen war noch nie so einfach. Endlich kann ich sicher sein, was ich meiner Familie zu essen gebe.",
+      "r3": "Schöne App mit so vielen Funktionen. Das Live-Kaaba-Streaming bringt mir Frieden, wann immer ich es anschaue. Sehr empfehlenswert!",
+      "r4": "Als Konvertit war diese App unschätzbar wertvoll zum Lernen. Der KI-Assistent beantwortet meine Fragen und die islamischen Geschichten sind wunderbar.",
+      "r5": "Der Qibla-Finder und die Gebetszeiten sind sehr genau. Ich benutze es täglich und habe es allen in meiner Moschee empfohlen.",
+      "r6": "Sehr umfassende islamische App. Der Dhikr-Zähler mit haptischem Feedback macht das Verfolgen meiner täglichen Adhkar so viel einfacher."
+    }
+  },
+  "footer": {
+    "appName": "Islam & Deen Buddy",
+    "appTagline": "Dein Islamischer Begleiter",
+    "tagline": "Dein vertrauenswürdiger Begleiter für die tägliche islamische Praxis.",
+    "links": "Links",
+    "legal": "Rechtliches",
+    "features": "Funktionen",
+    "howItWorks": "So funktioniert's",
+    "faq": "FAQ",
+    "privacy": "Datenschutzrichtlinie",
+    "terms": "Nutzungsbedingungen",
+    "contact": "Kontakt",
+    "copyright": "© {year} Islam & Deen Buddy. Alle Rechte vorbehalten.",
+    "developedBy": "Entwickelt von Oye Teknoloji Anonim Şirketi",
+    "disclaimer": "Islam & Deen Buddy bietet islamische Inhalte zu Bildungszwecken. Für persönliche religiöse Führung wenden Sie sich bitte an einen qualifizierten islamischen Gelehrten."
+  },
+  "localeSwitcher": {
+    "label": "Sprache",
+    "en": "English",
+    "ar": "العربية",
+    "tr": "Türkçe",
+    "fr": "Français",
+    "es": "Español",
+    "de": "Deutsch",
+    "nl": "Nederlands"
+  },
+  "ramadan": {
+    "badge": "Ramadan 2026",
+    "title": "Dein Kompletter Ramadan-Begleiter",
+    "subtitle": "Imsakiye, Iftar-Zeiten, Suhoor-Alarme, Koran-Lesetracker und alles was du für einen gesegneten Ramadan brauchst — alles in einer App.",
+    "cta": "Für Ramadan Herunterladen",
+    "ctaSubtext": "Kostenlose Imsakiye & Gebetszeiten für deine Stadt",
+    "features": {
+      "imsakiye": {
+        "title": "Ramadan Imsakiye",
+        "description": "Kompletter Ramadan-Kalender mit genauen Imsak (Suhoor) und Iftar-Zeiten für deinen genauen Standort. Verpasse nie wieder Sahur oder Iftar."
+      },
+      "iftar": {
+        "title": "Iftar-Zeit Benachrichtigungen",
+        "description": "Werde benachrichtigt, wenn es Zeit ist, das Fasten zu brechen. Countdown-Timer zeigt genau wie lange bis Iftar mit schöner Adhan-Benachrichtigung."
+      },
+      "sahur": {
+        "title": "Suhoor-Alarm",
+        "description": "Wache zum Suhoor mit anpassbaren Alarmen auf. Stelle mehrere Erinnerungen ein, um die Mahlzeit vor Morgendämmerung im Ramadan nicht zu verpassen."
+      },
+      "tarawih": {
+        "title": "Tarawih-Gebetszeiten",
+        "description": "Wisse genau, wann das Tarawih-Gebet in deiner lokalen Moschee beginnt. Verfolge deine nächtlichen Gebete während des gesamten Ramadan."
+      },
+      "dua": {
+        "title": "Ramadan-Duas",
+        "description": "Sammlung essentieller Ramadan-Duas einschließlich Iftar-Dua, Suhoor-Dua, Laylatul Qadr-Gebete und tägliche Ramadan-Bittgebete."
+      },
+      "quran": {
+        "title": "Koran-Khatm-Tracker",
+        "description": "Vollende den Koran während des Ramadan mit täglichen Lesezielen. Verfolge deinen Fortschritt und bleibe im Zeitplan für Khatm."
+      }
+    }
+  }
+}

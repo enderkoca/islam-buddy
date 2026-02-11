@@ -1,0 +1,214 @@
+{
+  "metadata": {
+    "title": "Islam & Deen Buddy - 2026 Ramazan İmsakiyesi, İftar Vakti ve Namaz Vakitleri",
+    "description": "2026 Ramazan için en iyi uygulama! İmsakiye, iftar saati, sahur alarmı, imsak vakti, teravih namazı. Ayrıca helal tarayıcı, canlı Kabe, kıble bulucu, namaz vakitleri ve daha fazlası."
+  },
+  "socialProof": {
+    "userCount": "1M+",
+    "userLabel": "Dünya Genelinde Müslüman",
+    "ratingLabel": "App Store & Google Play",
+    "downloadCount": "1M+",
+    "downloadLabel": "İndirme",
+    "trustMessage": "150'den fazla ülkede 1 milyondan fazla Müslüman tarafından günlük İslami pratikleri için güveniliyor"
+  },
+  "header": {
+    "appName": "Islam & Deen Buddy",
+    "appTagline": "İslami Yol Arkadaşınız",
+    "ramadan": "Ramazan 2026",
+    "features": "Özellikler",
+    "howItWorks": "Nasıl Çalışır",
+    "faq": "SSS",
+    "download": "İndir",
+    "language": "Dil"
+  },
+  "hero": {
+    "headline": "Eksiksiz İslami Yol Arkadaşınız",
+    "subheadline": "Helal tarayıcı, canlı Kabe, Kuran radyosu, kıble bulucu, yapay zeka asistanı ve 10'dan fazla güçlü özellik — manevi yolculuğunuz için ihtiyacınız olan her şey tek bir güzel uygulamada.",
+    "downloadCta": "Ücretsiz İndir",
+    "learnMoreCta": "Daha Fazla"
+  },
+  "features": {
+    "sectionTitle": "Günlük İbadetiniz için 10+ Güçlü Özellik",
+    "sectionSubtitle": "Helal gıda taramasından yapay zeka destekli İslami rehberliğe — imanınızı güçlendirmek için ihtiyacınız olan her şeyi geliştirdik.",
+    "featureCount": "Temel Özellikler",
+    "halalScanner": {
+      "title": "Helal Gıda Tarayıcı",
+      "description": "Herhangi bir gıda ürününün barkodunu tarayarak anında helal mi haram mı kontrol edin. Detaylı içerik analizi ve E-kod doğrulaması alın."
+    },
+    "kabaLive": {
+      "title": "Canlı Kabe Yayını",
+      "description": "Mekke'deki Mescid-i Haram'dan Kutsal Kabe'yi 7/24 canlı izleyin. Her an, her yerde kutsal mekana bağlı hissedin."
+    },
+    "quranRadio": {
+      "title": "7/24 Kuran Radyosu",
+      "description": "Gün boyu güzel Kuran tilavetleri dinleyin. İslam dünyasından çoklu okuyucular ve istasyonlar."
+    },
+    "quranReader": {
+      "title": "Kuran Okuma",
+      "description": "Güzel Osmani hattıyla Kuran'ı okuyun, 40'tan fazla dilde çeviri ve ünlü hafızlardan sesli tilavet."
+    },
+    "dhikrCounter": {
+      "title": "Zikir Sayacı",
+      "description": "Titreşim geri bildirimi, özelleştirilebilir zikir listeleri ve Allah'ı anmanızı takip etmek için günlük hedeflerle dijital tesbih."
+    },
+    "dailyVerse": {
+      "title": "Günün Ayeti ve Hadisi",
+      "description": "Her güne ilhamla başlayın. Her sabah açıklamalı güzel bir Kuran ayeti ve sahih hadis alın."
+    },
+    "prayerTimes": {
+      "title": "Namaz Vakitleri",
+      "description": "Konumunuza göre doğru namaz vakitleri, özelleştirilebilir hesaplama yöntemleri, bildirimler ve ezan sesleri."
+    },
+    "qiblaFinder": {
+      "title": "Kıble Bulucu",
+      "description": "Güzel görsel rehberlikle telefonunuzun pusulasını kullanarak dünyanın her yerinde tam kıble yönünü bulun."
+    },
+    "aiCoach": {
+      "title": "Yapay Zeka İslami Asistan",
+      "description": "Kuran ve Hadis'ten otantik kaynaklarla eğitilmiş yapay zeka asistanımızdan İslami sorularınıza cevap alın."
+    },
+    "islamicStories": {
+      "title": "İslami Hikayeler",
+      "description": "Peygamberlerin, sahabelerin ve İslam tarihinin hikayelerini güzel illüstrasyonlar ve sesli anlatımla keşfedin."
+    },
+    "widgets": {
+      "title": "Ana Ekran Widget'ları",
+      "description": "Ana ekranınıza namaz vakitleri, kıble yönü, günün ayeti ve zikir sayacı gösteren güzel widget'lar ekleyin."
+    },
+    "notifications": {
+      "title": "Akıllı Bildirimler",
+      "description": "Özelleştirilebilir ezan uyarıları, Kuran okuma hatırlatıcıları ve günlük İslami ilham bildirimleriyle hiçbir namazı kaçırmayın."
+    }
+  },
+  "howItWorks": {
+    "sectionTitle": "Dakikalar İçinde Yolculuğunuza Başlayın",
+    "sectionSubtitle": "Islam & Deen Buddy'yi kullanmaya başlamak çok kolay. İndirin, kişiselleştirin ve bugün manevi yolculuğunuza başlayın.",
+    "step1": {
+      "title": "Uygulamayı İndirin",
+      "description": "Islam & Deen Buddy'yi App Store veya Google Play'den ücretsiz edinin. Tüm iOS ve Android cihazlarda kullanılabilir."
+    },
+    "step2": {
+      "title": "Ayarları Kişiselleştirin",
+      "description": "Namaz vakitleri için konumunuzu ayarlayın, tercih ettiğiniz Kuran okuyucusunu seçin ve bildirimleri özelleştirin."
+    },
+    "step3": {
+      "title": "Yolculuğunuza Başlayın",
+      "description": "Tüm özellikleri keşfedin, günlük ibadetinizi takip edin ve yeni İslami yol arkadaşınızla Allah'a yakınlaşın."
+    }
+  },
+  "faq": {
+    "sectionTitle": "Sıkça Sorulan Sorular",
+    "sectionSubtitle": "Islam & Deen Buddy ve özellikleri hakkında sık sorulan sorulara cevap bulun.",
+    "q1": {
+      "question": "Helal Gıda Tarayıcı nasıl çalışır?",
+      "answer": "Telefonunuzun kamerasını kullanarak herhangi bir gıda ürününün barkodunu taramanız yeterli. Uygulamamız içerikleri helal/haram içerikler, E-kodları ve katkı maddeleri veritabanımızla karşılaştırır. Ürünün helal mi, haram mı yoksa daha fazla araştırma mı gerektirdiğini gösteren anında sonuç alırsınız."
+    },
+    "q2": {
+      "question": "Namaz vakitleri konumum için doğru mu?",
+      "answer": "Evet! Islam & Deen Buddy GPS konumunuzu kullanır ve doğru namaz vakitleri için birden fazla hesaplama yöntemini (Diyanet, MWL, ISNA, Mısır, Mekke, Karaçi ve daha fazlası) destekler. Yerel caminiz için gerekirse vakitleri manuel olarak da ayarlayabilirsiniz."
+    },
+    "q3": {
+      "question": "Uygulamayı çevrimdışı kullanabilir miyim?",
+      "answer": "Kuran okuyucu, kıble pusulası, zikir sayacı ve namaz vakitleri (hesaplandıktan sonra) dahil birçok özellik çevrimdışı çalışır. Canlı Kabe yayını ve Kuran radyosu gibi özellikler internet bağlantısı gerektirir."
+    },
+    "q4": {
+      "question": "Yapay Zeka İslami Asistanı güvenilir mi?",
+      "answer": "Yapay zeka asistanımız Kuran, Sahih Hadis koleksiyonları ve ilmi eserler dahil otantik İslami kaynaklarla eğitilmiştir. Ancak kişisel dini meseleler için her zaman yerel bir alime danışmanızı öneririz."
+    },
+    "q5": {
+      "question": "Kuran okuyucusunu nasıl değiştiririm?",
+      "answer": "Ayarlar > Kuran > Okuyucu'ya gidin ve Mişari Alafeisi, Abdulbasit, Sudeysi ve daha birçoğu dahil 30'dan fazla dünyaca ünlü hafız arasından seçim yapın. Her okuyucu çevrimdışı dinlemek için indirilebilir."
+    },
+    "q6": {
+      "question": "Islam & Deen Buddy ücretsiz mi?",
+      "answer": "Evet! Islam & Deen Buddy'yi indirmek ücretsizdir ve çoğu özellik ücretsiz olarak kullanılabilir. Reklamsız deneyim ve özel içerik gibi ek özellikler için isteğe bağlı premium abonelik sunuyoruz."
+    },
+    "q7": {
+      "question": "Namaz vakti bildirimlerini nasıl ayarlarım?",
+      "answer": "Ayarlar > Bildirimler'e gidin ve her namaz için uyarıları etkinleştirin. Bildirim sesini özelleştirebilir, ezan veya basit uyarı seçebilir ve her namazdan önce hatırlatma zamanlarını ayarlayabilirsiniz."
+    },
+    "q8": {
+      "question": "Uygulama birden fazla dili destekliyor mu?",
+      "answer": "Evet! Islam & Deen Buddy İngilizce, Arapça, Türkçe, Fransızca, İspanyolca, Almanca ve Hollandaca destekler. Kuran çevirileri 40'tan fazla dilde mevcuttur."
+    },
+    "q9": {
+      "question": "Kuran okuma ilerlememi nasıl takip ederim?",
+      "answer": "Uygulama okuduğunuz yeri otomatik olarak yer imlerine ekler. Ayrıca günlük okuma hedefleri belirleyebilir, hatim ilerlemenizi takip edebilir ve İlerleme bölümünde okuma alışkanlıklarınızla ilgili istatistikleri görüntüleyebilirsiniz."
+    },
+    "q10": {
+      "question": "Zikir sayacını özelleştirebilir miyim?",
+      "answer": "Kesinlikle! Özel zikir listeleri oluşturun, her zikir için günlük hedefler belirleyin, titreşim geri bildirimini etkinleştirin ve zaman içindeki ilerlemenizi takip edin. Uygulama ayrıca sabah ve akşam ezkarları için önceden ayarlanmış koleksiyonlar içerir."
+    }
+  },
+  "testimonials": {
+    "sectionTitle": "Dünya Genelinde Müslümanlar Tarafından Seviliyor",
+    "sectionSubtitle": "Topluluğumuzun Islam & Deen Buddy deneyimi hakkında neler söylediğini görün.",
+    "reviews": {
+      "r1": "Islam & Deen Buddy günlük rutinimdi dönüştürdü. Namaz hatırlatıcıları ve Kuran özellikleri gün boyunca imanıma bağlı kalmama yardımcı oluyor.",
+      "r2": "Helal tarayıcı oyunun kurallarını değiştiriyor! Market alışverişi hiç bu kadar kolay olmamıştı. Sonunda ailemi ne ile beslediğim konusunda güvenebiliyorum.",
+      "r3": "Pek çok özelliğe sahip güzel bir uygulama. Canlı Kabe yayını her izlediğimde bana huzur veriyor. Kesinlikle tavsiye ederim!",
+      "r4": "Mühtedi olarak bu uygulama öğrenmem için paha biçilmez oldu. Yapay zeka asistanı sorularımı cevaplıyor ve İslami hikayeler harika.",
+      "r5": "Kıble bulucu ve namaz vakitleri son derece doğru. Her gün kullanıyorum ve camimdeki herkese tavsiye ettim.",
+      "r6": "Çok kapsamlı bir İslami uygulama. Titreşim geri bildirimli zikir sayacı günlük zikirlerimi takip etmeyi çok daha kolay hale getiriyor."
+    }
+  },
+  "footer": {
+    "appName": "Islam & Deen Buddy",
+    "appTagline": "İslami Yol Arkadaşınız",
+    "tagline": "Günlük İslami pratik için güvenilir yol arkadaşınız.",
+    "links": "Bağlantılar",
+    "legal": "Yasal",
+    "features": "Özellikler",
+    "howItWorks": "Nasıl Çalışır",
+    "faq": "SSS",
+    "privacy": "Gizlilik Politikası",
+    "terms": "Kullanım Şartları",
+    "contact": "İletişim",
+    "copyright": "© {year} Islam & Deen Buddy. Tüm hakları saklıdır.",
+    "developedBy": "Oye Teknoloji Anonim Şirketi tarafından geliştirilmiştir",
+    "disclaimer": "Islam & Deen Buddy eğitim amaçlı İslami içerik sunmaktadır. Kişisel dini rehberlik için lütfen nitelikli bir İslam alimine danışın."
+  },
+  "localeSwitcher": {
+    "label": "Dil",
+    "en": "English",
+    "ar": "العربية",
+    "tr": "Türkçe",
+    "fr": "Français",
+    "es": "Español",
+    "de": "Deutsch",
+    "nl": "Nederlands"
+  },
+  "ramadan": {
+    "badge": "Ramazan 2026",
+    "title": "Eksiksiz Ramazan Yol Arkadaşınız",
+    "subtitle": "İmsakiye, iftar vakitleri, sahur alarmları, Kuran okuma takibi ve bereketli bir Ramazan için ihtiyacınız olan her şey — tek bir uygulamada.",
+    "cta": "Ramazan için İndir",
+    "ctaSubtext": "Şehriniz için ücretsiz imsakiye ve namaz vakitleri",
+    "features": {
+      "imsakiye": {
+        "title": "Ramazan İmsakiyesi",
+        "description": "Konumunuza özel doğru imsak ve iftar vakitleriyle eksiksiz Ramazan takvimi. Sahur ve iftarı bir daha asla kaçırmayın."
+      },
+      "iftar": {
+        "title": "İftar Vakti Bildirimi",
+        "description": "Oruç açma zamanı geldiğinde bildirim alın. Geri sayım sayacı güzel ezan bildirimiyle iftara ne kadar kaldığını tam olarak gösterir."
+      },
+      "sahur": {
+        "title": "Sahur Alarmı",
+        "description": "Özelleştirilebilir alarmlarla sahura kalkın. Ramazan boyunca imsak öğününü kaçırmamak için birden fazla hatırlatıcı ayarlayın."
+      },
+      "tarawih": {
+        "title": "Teravih Namazı Vakitleri",
+        "description": "Yerel caminizde teravih namazının tam olarak ne zaman başladığını bilin. Ramazan boyunca gece namazlarınızı takip edin."
+      },
+      "dua": {
+        "title": "Ramazan Duaları",
+        "description": "İftar duası, sahur duası, Kadir Gecesi duaları ve günlük Ramazan duaları dahil temel Ramazan dua koleksiyonu."
+      },
+      "quran": {
+        "title": "Hatim Takibi",
+        "description": "Günlük okuma hedefleriyle Ramazan'da Kuran'ı hatmedin. İlerlemenizi takip edin ve hatim programınıza sadık kalın."
+      }
+    }
+  }
+}
