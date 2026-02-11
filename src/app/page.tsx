@@ -1,13 +1,13 @@
 import { redirect } from "next/navigation";
 import { headers } from "next/headers";
-import { locales } from "@/i18n/routing";
+import { locales, type Locale } from "@/i18n/routing";
 
 export default async function RootPage() {
   const headersList = await headers();
   const acceptLanguage = headersList.get("accept-language") || "";
 
   // Detect user's preferred language from browser
-  let locale = "en"; // Default to English
+  let locale: string = "en"; // Default to English
 
   // Check each supported language in order of preference
   const languageMap: Record<string, string> = {
@@ -29,7 +29,7 @@ export default async function RootPage() {
   }
 
   // Fallback to English if detected language is not supported
-  if (!locales.includes(locale as any)) {
+  if (!(locales as readonly string[]).includes(locale)) {
     locale = "en";
   }
 
