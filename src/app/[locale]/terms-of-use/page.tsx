@@ -13,7 +13,7 @@ export default async function TermsOfUsePage({
   return (
     <>
       <Header />
-      <main className="min-h-screen bg-gradient-to-b from-white to-primary-50 pt-24 pb-16">
+      <main id="terms-top" className="min-h-screen bg-gradient-to-b from-white to-primary-50 pt-24 pb-16 scroll-smooth">
         <div className="mx-auto max-w-3xl px-4">
           <h1 className="mb-8 text-3xl font-bold text-primary-950 sm:text-4xl">
             Terms &amp; Conditions

@@ -1,15 +1,21 @@
+"use client";
+
 import Image from "next/image";
 import { useTranslations } from "next-intl";
-import { Link } from "@/i18n/navigation";
+import { Link, usePathname } from "@/i18n/navigation";
 import { AppStoreBadges } from "../ui/AppStoreBadges";
 
 export function Footer() {
   const t = useTranslations("footer");
   const year = new Date().getFullYear();
+  const pathname = usePathname();
+
+  // Check if we're on the homepage
+  const isHomePage = pathname === "/";
 
   const links = [
-    { href: "#features", label: t("features") },
-    { href: "#faq", label: t("faq") },
+    { href: isHomePage ? "#features" : "/#features", label: t("features") },
+    { href: isHomePage ? "#faq" : "/#faq", label: t("faq") },
   ];
 
   return (
@@ -46,13 +52,23 @@ export function Footer() {
             <h3 className="mb-4 text-sm font-semibold uppercase tracking-wider text-gold-500">{t("links")}</h3>
             <nav className="flex flex-col gap-3" aria-label="Footer">
               {links.map((link) => (
-                <a
-                  key={link.href}
-                  href={link.href}
-                  className="text-sm text-primary-300 transition-colors hover:text-gold-400"
-                >
-                  {link.label}
-                </a>
+                isHomePage ? (
+                  <a
+                    key={link.href}
+                    href={link.href}
+                    className="text-sm text-primary-300 transition-colors hover:text-gold-400"
+                  >
+                    {link.label}
+                  </a>
+                ) : (
+                  <Link
+                    key={link.href}
+                    href={link.href}
+                    className="text-sm text-primary-300 transition-colors hover:text-gold-400"
+                  >
+                    {link.label}
+                  </Link>
+                )
               ))}
             </nav>
           </div>
@@ -61,10 +77,10 @@ export function Footer() {
           <div>
             <h3 className="mb-4 text-sm font-semibold uppercase tracking-wider text-gold-500">{t("legal")}</h3>
             <nav className="flex flex-col gap-3" aria-label="Legal">
-              <Link href="/privacy-policy" target="_blank" className="text-sm text-primary-300 transition-colors hover:text-gold-400">
+              <Link href="/privacy-policy" className="text-sm text-primary-300 transition-colors hover:text-gold-400">
                 {t("privacy")}
               </Link>
-              <Link href="/terms-of-use" target="_blank" className="text-sm text-primary-300 transition-colors hover:text-gold-400">
+              <Link href="/terms-of-use" className="text-sm text-primary-300 transition-colors hover:text-gold-400">
                 {t("terms")}
               </Link>
             </nav>

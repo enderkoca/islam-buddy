@@ -6,7 +6,20 @@
       "Bash(vercel --yes:*)",
       "Bash(vercel:*)",
       "Bash(gh auth:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$\\(cat <<''EOF''\nAdd multi-language support with next-intl\n\n- Configure internationalization for 7 languages \\(en, ar, tr, fr, es, de, nl\\)\n- Set up locale routing with as-needed prefix\n- Add middleware for locale handling\n- Update project structure to support [locale] routes\n- Add SEO components \\(robots.ts, sitemap.ts\\)\n\nCo-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
+      "Bash(gh repo create:*)",
+      "Bash(~/.zshrc << 'EOF'\n\n# Islam Buddy deployment alias\nalias deploy-islam=\"git push origin main && vercel --prod\"\nEOF)",
+      "Bash(source:*)",
+      "Bash(open \"https://vercel.com/new/git\")",
+      "Bash(lsof:*)",
+      "Bash(kill:*)",
+      "Bash(open \"http://localhost:3001\")",
+      "Bash(ls:*)",
+      "Bash(open \"http://localhost:3001/en\")",
+      "Bash(curl:*)",
+      "Bash(open:*)",
+      "Bash(jq:*)"
     ]
   }
 }

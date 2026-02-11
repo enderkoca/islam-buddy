@@ -210,5 +210,17 @@
         "description": "Günlük okuma hedefleriyle Ramazan'da Kuran'ı hatmedin. İlerlemenizi takip edin ve hatim programınıza sadık kalın."
       }
     }
+  },
+  "privacy": {
+    "title": "Gizlilik Politikası",
+    "intro": "Gizliliğinize saygı duyuyoruz ve kişisel verilerinizi korumaya kararlıyız.",
+    "description": "Islam & Deen Buddy, size en iyi İslami yardımcı deneyimini sunmak için gerekli minimum veriyi toplar. Verilerinizi üçüncü şahıslara satmıyoruz.",
+    "readFull": "Tam Gizlilik Politikasını Okuyun"
+  },
+  "terms": {
+    "title": "Kullanım Koşulları",
+    "intro": "Islam & Deen Buddy uygulamasını kullanarak, bu şartları ve koşulları kabul etmiş olursunuz.",
+    "description": "Uygulamamız kişisel, ticari olmayan kullanım için ücretsiz olarak sağlanmaktadır. Müslüman topluluğuna daha iyi hizmet etmek için özellikleri ve içeriği güncelleme hakkını saklı tutarız.",
+    "readFull": "Tam Kullanım Koşullarını Okuyun"
   }
 }

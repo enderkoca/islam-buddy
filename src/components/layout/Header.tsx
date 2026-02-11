@@ -3,18 +3,22 @@
 import { useState } from "react";
 import Image from "next/image";
 import { useTranslations } from "next-intl";
-import { Link } from "@/i18n/navigation";
+import { Link, usePathname } from "@/i18n/navigation";
 import { LocaleSwitcher } from "./LocaleSwitcher";
 import { APP_STORE_URL } from "@/lib/constants";
 
 export function Header() {
   const t = useTranslations("header");
   const [menuOpen, setMenuOpen] = useState(false);
+  const pathname = usePathname();
+
+  // Check if we're on the homepage
+  const isHomePage = pathname === "/";
 
   const navLinks = [
-    { href: "#ramadan", label: t("ramadan") },
-    { href: "#features", label: t("features") },
-    { href: "#faq", label: t("faq") },
+    { href: isHomePage ? "#ramadan" : "/#ramadan", label: t("ramadan") },
+    { href: isHomePage ? "#features" : "/#features", label: t("features") },
+    { href: isHomePage ? "#faq" : "/#faq", label: t("faq") },
   ];
 
   return (
@@ -50,14 +54,25 @@ export function Header() {
           {/* Desktop Navigation */}
           <nav className="hidden items-center gap-6 md:flex" aria-label="Main">
             {navLinks.map((link) => (
-              <a
-                key={link.href}
-                href={link.href}
-                className="relative text-sm font-medium text-primary-200 transition-colors hover:text-white"
-              >
-                {link.label}
-                <span className="absolute -bottom-1 left-0 h-0.5 w-0 bg-gold-500 transition-all duration-300 hover:w-full" />
-              </a>
+              isHomePage ? (
+                <a
+                  key={link.href}
+                  href={link.href}
+                  className="relative text-sm font-medium text-primary-200 transition-colors hover:text-white"
+                >
+                  {link.label}
+                  <span className="absolute -bottom-1 left-0 h-0.5 w-0 bg-gold-500 transition-all duration-300 hover:w-full" />
+                </a>
+              ) : (
+                <Link
+                  key={link.href}
+                  href={link.href}
+                  className="relative text-sm font-medium text-primary-200 transition-colors hover:text-white"
+                >
+                  {link.label}
+                  <span className="absolute -bottom-1 left-0 h-0.5 w-0 bg-gold-500 transition-all duration-300 hover:w-full" />
+                </Link>
+              )
             ))}
 
             <div className="h-5 w-px bg-primary-700" />
@@ -126,14 +141,25 @@ export function Header() {
         >
           <div className="flex flex-col gap-1 pt-3">
             {navLinks.map((link) => (
-              <a
-                key={link.href}
-                href={link.href}
-                className="rounded-lg px-4 py-3 text-sm font-medium text-primary-200 transition-colors hover:bg-primary-800 hover:text-white"
-                onClick={() => setMenuOpen(false)}
-              >
-                {link.label}
-              </a>
+              isHomePage ? (
+                <a
+                  key={link.href}
+                  href={link.href}
+                  className="rounded-lg px-4 py-3 text-sm font-medium text-primary-200 transition-colors hover:bg-primary-800 hover:text-white"
+                  onClick={() => setMenuOpen(false)}
+                >
+                  {link.label}
+                </a>
+              ) : (
+                <Link
+                  key={link.href}
+                  href={link.href}
+                  className="rounded-lg px-4 py-3 text-sm font-medium text-primary-200 transition-colors hover:bg-primary-800 hover:text-white"
+                  onClick={() => setMenuOpen(false)}
+                >
+                  {link.label}
+                </Link>
+              )
             ))}
 
             <div className="my-2 h-px bg-primary-800" />

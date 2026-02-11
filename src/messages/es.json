@@ -210,5 +210,17 @@
         "description": "Completa el Corán durante Ramadán con metas de lectura diarias. Rastrea tu progreso y mantente en horario para el Khatm."
       }
     }
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "intro": "We respect your privacy and are committed to protecting your personal data.",
+    "description": "Islam & Deen Buddy collects minimal data necessary to provide you with the best Islamic companion experience. We do not sell your data to third parties.",
+    "readFull": "Read Full Privacy Policy"
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "intro": "By using Islam & Deen Buddy, you agree to these terms and conditions.",
+    "description": "Our app is provided free of charge for personal, non-commercial use. We reserve the right to update features and content to better serve the Muslim community.",
+    "readFull": "Read Full Terms & Conditions"
   }
 }
