@@ -12,7 +12,7 @@ export function AppDownloadSheet() {
 
   useEffect(() => {
     // Check if user has dismissed before
-    const dismissed = localStorage.getItem("app-sheet-dismissed");
+    const dismissed = localStorage.getItem("app-download-sheet-v1");
     if (dismissed) {
       return;
     }
@@ -33,7 +33,7 @@ export function AppDownloadSheet() {
 
   const handleDismiss = () => {
     setIsVisible(false);
-    localStorage.setItem("app-sheet-dismissed", "true");
+    localStorage.setItem("app-download-sheet-v1", "true");
   };
 
   if (!isVisible) return null;
