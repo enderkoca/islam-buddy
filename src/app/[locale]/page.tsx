@@ -8,7 +8,7 @@ import { FAQ } from "@/components/sections/FAQ";
 import { Footer } from "@/components/sections/Footer";
 import { JsonLd } from "@/components/seo/JsonLd";
 import { AudioPlayer } from "@/components/ui/AudioPlayer";
-import { MobileDownloadButton } from "@/components/ui/MobileDownloadButton";
+import { AppDownloadSheet } from "@/components/ui/AppDownloadSheet";
 
 export default async function HomePage({
   params,
@@ -31,7 +31,7 @@ export default async function HomePage({
       </main>
       <Footer />
       <AudioPlayer />
-      <MobileDownloadButton />
+      <AppDownloadSheet />
     </>
   );
 }
