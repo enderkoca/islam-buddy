@@ -21,6 +21,11 @@
     "download": "İndir",
     "language": "Dil"
   },
+  "appDownloadSheet": {
+    "title": "Daha iyi bir deneyim için",
+    "description": "Uygulamamızı indirin ve tüm özelliklere erişin",
+    "downloadButton": "Uygulamayı Ücretsiz Kullan"
+  },
   "hero": {
     "headline": "Eksiksiz İslami Yol Arkadaşınız",
     "subheadline": "Helal tarayıcı, canlı Kabe, Kuran radyosu, kıble bulucu, yapay zeka asistanı ve 10'dan fazla güçlü özellik — manevi yolculuğunuz için ihtiyacınız olan her şey tek bir güzel uygulamada.",

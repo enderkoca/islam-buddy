@@ -21,6 +21,11 @@
     "download": "Downloaden",
     "language": "Taal"
   },
+  "appDownloadSheet": {
+    "title": "Voor een betere ervaring",
+    "description": "Download onze app en krijg toegang tot alle functies",
+    "downloadButton": "Gebruik de App Gratis"
+  },
   "hero": {
     "headline": "Je Complete Islamitische Metgezel",
     "subheadline": "Halal scanner, live Kaaba, Koran radio, Qibla finder, AI assistent en meer dan 10 krachtige functies — alles wat je nodig hebt voor je spirituele reis in één mooie app.",

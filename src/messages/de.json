@@ -21,6 +21,11 @@
     "download": "Herunterladen",
     "language": "Sprache"
   },
+  "appDownloadSheet": {
+    "title": "Für ein besseres Erlebnis",
+    "description": "Laden Sie unsere App herunter und greifen Sie auf alle Funktionen zu",
+    "downloadButton": "App Kostenlos Nutzen"
+  },
   "hero": {
     "headline": "Dein Kompletter Islamischer Begleiter",
     "subheadline": "Halal-Scanner, Live-Kaaba, Koran-Radio, Qibla-Finder, KI-Assistent und über 10 leistungsstarke Funktionen — alles was du für deine spirituelle Reise brauchst in einer schönen App.",

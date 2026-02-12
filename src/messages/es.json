@@ -21,6 +21,11 @@
     "download": "Descargar",
     "language": "Idioma"
   },
+  "appDownloadSheet": {
+    "title": "Para una mejor experiencia",
+    "description": "Descarga nuestra aplicación y accede a todas las funciones",
+    "downloadButton": "Usa la App Gratis"
+  },
   "hero": {
     "headline": "Tu Compañero Islámico Completo",
     "subheadline": "Escáner halal, Kaaba en vivo, radio Corán, buscador de Qibla, asistente IA y más de 10 características poderosas — todo lo que necesitas para tu viaje espiritual en una hermosa app.",
