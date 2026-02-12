@@ -69,6 +69,8 @@ export function AppDownloadSheet() {
                 width={88}
                 height={88}
                 className="relative rounded-3xl shadow-xl"
+                priority
+                unoptimized
               />
             </div>
           </div>
